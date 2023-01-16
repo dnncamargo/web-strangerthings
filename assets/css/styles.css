@@ -54,7 +54,7 @@
   }
 
   h1, h2, h3 {
-    font-family: var(--featured-font-family), sans-serif;
+    font-family: "Archivo", sans-serif;
     font-size: 3rem;
     color: var(--primary-color);
     text-transform: uppercase;
@@ -87,6 +87,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
   }
 
   header::before {
@@ -100,13 +101,14 @@
     background-position: center 90%;
     filter: saturate(0);
     opacity: 0.2;
+    z-index: 1;
   }
 
   .header-content {
     max-width: 700px;
     padding: 80px 20px;
     text-align: center;
-
+    z-index: 2;
   }
 
   .header-content img {
