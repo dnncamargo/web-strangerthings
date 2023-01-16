@@ -70,12 +70,20 @@
   }
 
   button {
-    padding: 16px 32px;
+    padding: 16px 32px; /*espaçamento interno*/
     background-color: transparent;
     font-weight: 900;
     font-family: var(--featured-font-family);
-    font-size: 1.25rem;
+    font-size: 1.25rem; /*tamanho da fonte*/
     text-transform: uppercase;
     cursor: pointer;
     transition: background 1s;
+  }
+
+  /* tema do cabeçalho */
+  header {
+    background-color: var(--header-background-color);
+    min-height: 850px; /*tamanho mínimo da fonte*/
+    display: flex;
+    
   }
