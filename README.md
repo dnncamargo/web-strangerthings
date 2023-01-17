@@ -5,7 +5,7 @@
 -------
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
-Clique no link para entrar no ##Mundo Invertido
+Clique no link para entrar no <b>Mundo Invertido</b>
 https://dnncamargo.github.io/web-strangerthings/
 
 
