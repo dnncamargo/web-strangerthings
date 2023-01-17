@@ -36,5 +36,5 @@ https://dnncamargo.github.io/web-strangerthings/
     - Introdução ao Firebase
     - Integração com o Firebase
 
-Projeto desenvolvido no Bootcamp Semana Front-End da Dio.me
-https://web.dio.me/lives/semana-front-end-dia-01-javascript
+Projeto desenvolvido no Bootcamp Semana Front-End da Dio.me <br>
+https://dio.me/
